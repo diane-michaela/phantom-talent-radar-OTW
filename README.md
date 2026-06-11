@@ -5,6 +5,7 @@ Weekly automated candidate sourcing pipeline. PhantomBuster scrapes LinkedIn, Tw
 **Target geographies:** France 🇫🇷 · Spain 🇪🇸 · Portugal 🇵🇹  
 **Target profiles:** frontend engineer, ML engineer, support agent, backend engineer, growth marketer, PMM  
 **Run cadence:** every Monday at 8am via cron
+**GDPR-friendly:** erase data after 90 days
 
 ---
 
